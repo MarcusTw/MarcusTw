@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Reference: https://github.com/Ileriayo/markdown-badges
 -->
 
-# Hello, I'm Marcus 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=24&duration=4000&color=3891E1&multiline=true&width=450&height=80&lines=Hey%2C+I'm+Marcuss+Tan;Computer+Science+Student+at+NUS)](https://git.io/typing-svg)
 
 <a href="https://marcustw.github.io/">
   <img  alt="Portfolio" src="https://img.shields.io/badge/-Website-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge" />
@@ -75,6 +75,9 @@ I'm am a Senior Computer Science student in NUS, with strong passion in Software
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+
+### Most Used Languages
+![Marcus's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinchangjk&hide=jupyter%20notebook,html&show_icons=true&theme=react&locale=en&layout=compact)
 
 ### Github Stats 
 ![Marcus's Github stats](https://github-readme-stats.vercel.app/api?username=MarcusTw&show_icons=true&theme=dark)
