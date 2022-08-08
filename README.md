@@ -84,4 +84,5 @@ I'm am a Senior Computer Science student in NUS, with strong passion in Software
 
 ### Resume
 [Github Resume](https://resume.github.io/?marcustw)
+
 [Resume](https://docs.google.com/document/d/14bKvyC2fMFP8p2um5Ioed3iu-PpSFdYG/edit?usp=sharing&ouid=100507967070655504589&rtpof=true&sd=true)
