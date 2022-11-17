@@ -41,10 +41,10 @@ I'm am a Senior Computer Science student in NUS, with strong passion in Software
 
 ### Programming Languages
 
-<img alt="java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" /> <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img alt="cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" /> <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 
