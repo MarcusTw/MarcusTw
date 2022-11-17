@@ -77,10 +77,12 @@ I'm am a Senior Computer Science student in NUS, with strong passion in Software
 <img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 
 ### Most Used Languages
-![Marcus's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MarcusTw&hide=jupyter%20notebook,html&show_icons=true&theme=dark&locale=en&layout=compact)
+<summary>:computer: Most Used Languages</summary>
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusTw&hide=jupyter%20notebook,html&show_icons=true&theme=dark&locale=en&layout=compact" />
 
-### Github Stats 
-![Marcus's Github stats](https://github-readme-stats.vercel.app/api?username=MarcusTw&show_icons=true&theme=dark)
+### Github Stats
+<summary>:zap: GitHub stats</summary>
+<img alt="My Github stats" src="https://github-readme-stats.vercel.app/api?username=MarcusTw&show_icons=true&theme=material-palenight" />
 
 ### Resume
 [Github Resume](https://resume.github.io/?marcustw)
