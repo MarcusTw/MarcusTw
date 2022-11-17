@@ -76,11 +76,9 @@ I'm am a Senior Computer Science student in NUS, with strong passion in Software
 <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 
-### Most Used Languages
 <p>:computer: Most Used Languages</p>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusTw&hide=jupyter%20notebook,html&show_icons=true&theme=dark&locale=en&layout=compact" />
 
-### Github Stats
 <p>:zap: GitHub stats</p>
 <img alt="My Github stats" src="https://github-readme-stats.vercel.app/api?username=MarcusTw&show_icons=true&theme=material-palenight" />
 
