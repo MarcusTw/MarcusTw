@@ -48,7 +48,7 @@ I'm am a Senior Computer Science student in NUS, with strong passion in Software
 <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 
-<p>:classical_building: Frameworks</p>
+<br /><p>:classical_building: Frameworks</p>
 
 #### Frontend
 <img alt="react" src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img alt="react native" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
